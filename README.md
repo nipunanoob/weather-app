@@ -2,10 +2,15 @@
 
 ## SETUP
 
-1. Set up a virtual environment
-``` python -m venv venv ```
+1. Set up a virtual environment and activate it
+
+
+``` python -m venv venv 
+    source venv/bin/activate 
+```
 
 2. Run below command to install all dependencies for python project
+
 ``` pip install -r requirements.txt ```
 
 3. Store your openweather api key in main/.env in this format
