@@ -1,0 +1,15 @@
+**/.env*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env.*
+*.db
+*.sqlite3
+.DS_Store
+.git
+.gitignore
+README.md
+venv
+Dockerfile
